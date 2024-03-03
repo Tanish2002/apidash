@@ -57,3 +57,4 @@ coverage/*
 installers/*
 .metadata
 .fvm/
+releases

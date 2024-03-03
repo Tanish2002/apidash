@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=0.3.0+3
+Name=API Dash
+GenericName=API Client
+Icon=apidash
+Exec=apidash %U
+Categories=Development;Utility;
+Keywords=Postman;API;API Client;HTTP;Rest API;Client;
+StartupNotify=true
